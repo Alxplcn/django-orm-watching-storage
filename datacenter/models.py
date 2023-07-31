@@ -1,6 +1,5 @@
 import math
 from django.db import models
-from datetime import timedelta
 from django.utils.timezone import localtime
 
 
