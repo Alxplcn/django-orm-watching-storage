@@ -8,8 +8,6 @@ django==3.2.*
 
 psycopg2-binary==2.9.*
 
-python-dotenv~=1.0.0
-
 environs~=9.5.0
 
 ## Инструкция по установке и запуску
